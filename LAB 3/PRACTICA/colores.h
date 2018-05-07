@@ -7,4 +7,3 @@
 #define WHT   "\x1B[37m"
 #define RESET "\x1B[0m"
 
-//https://github.com/shiena/ansicolor/blob/master/README.md
